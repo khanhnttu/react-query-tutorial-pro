@@ -1,5 +1,6 @@
 ## B1 
 Bạn chỉ cần download source về từ github.
+link:https://github.com/khanhnttu/react-query-tutorial-pro
 ## B2
 Sau đó dùng lệnh npm i hoặc yarn để download các package.
 ## B3
