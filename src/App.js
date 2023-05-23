@@ -7,14 +7,14 @@ import ReactPostPage from './pages/ReactPostPage';
 
 function App() {
   return (
-    <Router>
-      <Header />
-      <Routes>
-        <Route path='/react-query' element={<ReactQueryPostPage />}></Route>
-        <Route path='/react' element={<ReactPostPage />}></Route>
-        <Route path='/' element={<HomePage />}></Route>
-      </Routes>
-    </Router>
+      <Router>
+        <Header />
+        <Routes>
+          <Route path='/react-query' element={<ReactQueryPostPage />}></Route>
+          <Route path='/react' element={<ReactPostPage />}></Route>
+          <Route path='/' element={<HomePage />}></Route>
+        </Routes>
+      </Router>
   );
 }
 
